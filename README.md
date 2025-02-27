@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://instagram.com/kevin__ssx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin__ssx" height="30" width="40" /></a>
 </p>
-<a href="https://open.spotify.com/user/Kevinssx">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"height="30" width="40">
+<a href="https://open.spotify.com/user/31gmwsg5bo3nwajvw5nqfas4mwre?si=Z2C3GeSsTOuKdE3OvB6A-A" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
