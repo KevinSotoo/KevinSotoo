@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevinSotoo](https://github.com/KevinSotoo)
 
-- 📫 How to reach me **kssoto29@ucatolica.edu.co**
+- 📫 How to reach me **kevinsotoavila905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
